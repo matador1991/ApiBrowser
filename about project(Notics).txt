@@ -1,0 +1,9 @@
+1)Authentiacation:Done with build api and next build views
+#login
+#register
+#logout
+I build middleware for choose guard called "assignGuard" and middleware called "Check lang" for check what is languge.
+I build Trait for function about json response called GeneralTrait.
+All Validation Done.
+2)DataBase:Use mySql and i attached it in project-files by name api.sql
+3)Search:I Use nicolaslopezj/searchable package.
